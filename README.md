@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Sam – full-stack dev mostly
 
-<!--
-**SamOn-Fs/SamOn-Fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making web stuff and bots for Persian messengers like Bale. Also into automation when I'm bored.
 
-Here are some ideas to get you started:
+## What I kinda know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+HTML, CSS, JS, jQuery (yeah, still use it sometimes)
+
+**Backend**  
+Python, Flask
+
+**Bots / messengers**  
+- Balethon (Bale bot framework)  
+- aiogram (Telegram async bots)  
+- aiobale (Bale userbot – async too)
+
+## Right now I'm trying to
+
+- Put more open-source projects for Bale messenger  
+- Get better at Flask and REST APIs  
+- Not break things when automating
+
+## Find me
+
+[Telegram](https://t.me/LinusToorvalds) – yeah that's my weird username  
+[Bale](https://ble.ir/Linus_Torvalds)  
+Email: samr.programmer@gmail.com (don't spam pls)
