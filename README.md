@@ -23,7 +23,6 @@ Python, Flask
 
 ## Find me
 
-[Telegram](https://t.me/LinusToorvalds) 
-
+[Telegram](https://t.me/LinusToorvalds)
 [Bale](https://ble.ir/Linus_Torvalds)  
 Email: samr.programmer@gmail.com 
