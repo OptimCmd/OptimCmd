@@ -5,7 +5,7 @@ I like making web stuff and bots for Persian messengers like Bale. Also into aut
 ## What I kinda know
 
 **Frontend**  
-HTML, CSS, JS, jQuery (yeah, still use it sometimes)
+HTML, CSS, JS, jQuery
 
 **Backend**  
 Python, Flask
@@ -13,7 +13,7 @@ Python, Flask
 **Bots / messengers**  
 - Balethon (Bale bot framework)  
 - aiogram (Telegram async bots)  
-- aiobale (Bale userbot – async too)
+- aiobale (Bale userbot)
 
 ## Right now I'm trying to
 
