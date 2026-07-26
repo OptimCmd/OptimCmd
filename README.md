@@ -1,28 +1,34 @@
-# Hey, I'm Sam – full-stack dev mostly
+<h1 align="center">👋 Hi, I'm Amir</h1>
 
-I like making web stuff and bots for Persian messengers like Bale. Also into automation when I'm bored.
+<p align="center">
+  <img src="https://i.imgur.com/rTZkf4K.gif" alt="Coding" width="400">
+</p>
 
-## What I kinda know
+---
 
-**Frontend**  
-HTML, CSS, JS, jQuery
+## 👨‍💻 About Me
 
-**Backend**  
-Python, Flask
+- 🎨 **Web Designer** with a passion for clean UI/UX
+- 🤖 Currently on the path to becoming an **AI Engineer**
+- 🏠 Based in **Bandar Abbas, Iran**
+- 🚀 Love building things that combine design & intelligence
 
-**Bots / messengers**  
-- Balethon (Bale bot framework)  
-- aiogram (Telegram async bots)  
-- aiobale (Bale userbot)
+---
 
-## Right now I'm trying to
+## 🌐 Socials
 
-- Put more open-source projects for Bale messenger  
-- Get better at Flask and REST APIs  
-- Not break things when automating
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/syntax_syntax)
 
-## Find me
+---
 
-[Telegram](https://t.me/LinusToorvalds)
-[Bale](https://ble.ir/Linus_Torvalds)  
-Email: samr.programmer@gmail.com 
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
