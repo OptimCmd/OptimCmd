@@ -1,7 +1,9 @@
+[banner](https://dl.toolschi.com/up/4113dc407e38379b.png)
+
 <h1 align="center">👋 Hi, I'm Saman</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/rTZkf4K.gif" alt="Coding" width="400">
+  <img src="https://i.imgur.com/rTZkf4K.gif" alt="Coding" width="200">
 </p>
 
 ---
